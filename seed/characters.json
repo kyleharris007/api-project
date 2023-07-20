@@ -1,162 +1,194 @@
 [
     {
-        "_id": "1",
         "name": "Tywin Lannister",
         "house": "House Lannister",
+        "gender": "Male",
+        "hairColor": "White"
     },
     {
-        "_id": "2",
         "name": "Cersei Lannister",
         "house": "House Lannister",
+        "gender": "Female",
+        "hairColor": "Blonde"
     },
     {
-        "_id": "3",
         "name": "Jaime Lannister",
         "house": "House Lannister",
+        "gender": "Male",
+        "hairColor": "Blonde"
     },
     {
-        "_id": "4",
         "name": "Tyrion Lannister",
         "house": "House Lannister",
+        "gender": "Male",
+        "hairColor": "Blonde"
     },
     {
-        "_id": "5",
         "name": "Joffrey Baratheon",
         "house": "House Lannister",
+        "gender": "Male",
+        "hairColor": "Blonde"
     },
     {
-        "_id": "6",
         "name": "Robert Baratheon",
         "house": "House Baratheon",
+        "gender": "Male",
+        "hairColor": "Black"
     },
     {
-        "_id": "7",
         "name": "Stannis Baratheon",
         "house": "House Baratheon",
+        "gender": "Male",
+        "hairColor": "Black"
     },
     {
-        "_id": "8",
         "name": "Renly Baratheon",
         "house": "House Baratheon",
+        "gender": "Male",
+        "hairColor": "Brown"
     },
     {
-        "_id": "9",
         "name": "Daenerys Targaryen",
         "house": "House Targaryen",
+        "gender": "Female",
+        "hairColor": "Blonde"
     },
     {
-        "_id": "10",
         "name": "Viserys Targaryen",
         "house": "House Targaryen",
+        "gender": "Male",
+        "hairColor": "Blonde"
     },
     {
-        "_id": "11",
         "name": "Balon Greyjoy",
         "house": "House Greyjoy",
+        "gender": "Male",
+        "hairColor": "Grey"
     },    
     {
-        "_id": "12",
         "name": "Theon Greyjoy",
         "house": "House Greyjoy",
+        "gender": "Male",
+        "hairColor": "Brown"
     },
     {
-        "_id": "13",
         "name": "Asha Greyjoy",
         "house": "House Greyjoy",
+        "gender": "Female",
+        "hairColor": "Brown"
     },
     {
-        "_id": "14",
         "name": "Jon Arryn",
         "house": "House Arryn",
+        "gender": "Male",
+        "hairColor": "White"
     },
     {
-        "_id": "15",
         "name": "Lysa Arryn",
         "house": "House Arryn",
+        "gender": "Female",
+        "hairColor": "Red"
     },
     {
-        "_id": "16",
         "name": "Robert Arryn",
         "house": "House Arryn",
+        "gender": "Male",
+        "hairColor": "Brown"
     },
     {
-        "_id": "17",
         "name": "Doran Martell",
         "house": "House Martell",
+        "gender": "Male",
+        "hairColor": "Brown"
     },
     {
-        "_id": "18",
         "name": "Oberyn Martell",
         "house": "House Martell",
+        "gender": "Male",
+        "hairColor": "Brown"
     },
     {
-        "_id": "19",
         "name": "Hoster Tully",
         "house": "House Tully",
+        "gender": "Male",
+        "hairColor": "Brown"
     },
     {
-        "_id": "20",
         "name": "Edmure Tully",
         "house": "House Tully",
+        "gender": "Male",
+        "hairColor": "Brown"
     },
     {
-        "_id": "21",
         "name": "Mace Tyrell",
         "house": "House Tyrell",
+        "gender": "Male",
+        "hairColor": "white"
     },
     {
-        "_id": "22",
         "name": "Olenna Tyrell",
         "house": "House Tyrell",
+        "gender": "Female",
+        "hairColor": "Grey"
     },
     {
-        "_id": "23",
         "name": "Margaery Tyrell",
         "house": "House Tyrell",
+        "gender": "Female",
+        "hairColor": "Brown"
     },
     {
-        "_id": "24",
         "name": "Loras Tyrell",
         "house": "House Tyrell",
+        "gender": "Male",
+        "hairColor": "Brown"
     },
     {
-        "_id": "25",
         "name": "Ed Stark",
         "house": "House Stark",
+        "gender": "Male",
+        "hairColor": "Brown"
     },
     {
-        "_id": "26",
         "name": "Robb Stark",
         "house": "House Stark",
+        "gender": "Male",
+        "hairColor": "Brown"
     },
     {
-        "_id": "27",
         "name": "Sansa Stark",
         "house": "House Stark",
+        "gender": "Female",
+        "hairColor": "Red"
     },
     {
-        "_id": "28",
         "name": "Arya Stark",
         "house": "House Stark",
+        "gender": "Female",
+        "hairColor": "Brown"
     },
     {
-        "_id": "29",
         "name": "Bran Stark",
         "house": "House Stark",
+        "gender": "Male",
+        "hairColor": "Brown"
     },
     {
-        "_id": "30",
         "name": "Rickon Stark",
         "house": "House Stark",
+        "gender": "Male",
+        "hairColor": "Brown"
     },
     {
-        "_id": "31",
         "name": "Jon Snow",
         "house": "House Stark",
+        "gender": "Male",
+        "hairColor": "Brown"
     },
     {
-        "_id": "32",
         "name": "Benjen Stark",
         "house": "House Stark",
+        "gender": "Male",
+        "hairColor": "Brown"
     },
 ]

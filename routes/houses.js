@@ -1,12 +1,12 @@
-import {Router} from 'express';
-import * as controllers from '../controllers/characters.js';
+import { Router } from "express";
+import * as controllers from "../controllers/houses.js";
 
 const router = Router();
 
-router.get('/', controllers.getCharacters);
-router.get('/:id', controllers.getCharacter);
-router.post('/', controllers.createCharacter);
-router.put('/:id', controllers.updateCharacter);
-router.delete('/:id', controllers.deleteCharacter);
+router.get("/", controllers.getHouses);
+router.get("/:id", controllers.getHouse);
+router.post("/", controllers.createHouse);
+router.put("/:id", controllers.updateHouse);
+router.delete("/:id", controllers.deleteHouse);
 
 export default router;

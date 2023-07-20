@@ -1,14 +1,18 @@
-import db from '../db/connection.js';
-import House from '../models/House.js';
-import Character from '../models/Character.js';
-import houses from './houses.js' assert { type: "json" };
-import characters from './characters.js' assert { type: "json" };
+import db from "../db/connection.js";
+import House from "../models/House.js";
+import Character from "../models/Character.js";
+import houses from "./houses.json" assert { type: "json" };
+import characters from "./characters.json" assert { type: "json" };
 
 const insertData = async () => {
-    await db.dropDatabase();
-    await characters.create(characters);
-    await House.create(houses);
-    await db.close();
+  await db.dropDatabase();
+
+  await Character.create(characters);
+  await House.create(houses);
+
+  console.log("Characters and Houses created!");
+
+  await db.close();
 };
 
 insertData();

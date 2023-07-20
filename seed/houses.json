@@ -1,0 +1,38 @@
+[
+    {
+        "_id": "01",
+        "name": "House Stark"
+    },
+    {
+        "_id": "02",
+        "name": "House Lannister"
+    },
+    {
+        "_id": "03",
+        "name": "House Baratheon"
+    },
+    {
+        "_id": "04",
+        "name": "House Targaryen"
+    },
+    {
+        "_id": "05",
+        "name": "House Greyjoy"
+    },
+    {
+        "_id": "06",
+        "name": "House Arryn"
+    },
+    {
+        "_id": "07",
+        "name": "House Martell"
+    },
+    {
+        "_id": "08",
+        "name": "House Tully"
+    },
+    {
+        "_id": "09",
+        "name": "House Tyrell"
+    },
+]

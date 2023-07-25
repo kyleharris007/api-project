@@ -5,7 +5,7 @@ mongoose.set("returnOriginal", false);
 
 const DB_URL = process.env.DB_URL || "mongodb://localhost/got";
 
-mongoose.connect(DB_URL);
+mongoose.connect(DB_URL)
     .catch((err) => {
         console.log(`Error connection to MongoDB: ${err.message}`);
 });
